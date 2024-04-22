@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @HarishRavichandiran06
-- 👀 I’m interested in Programming using Python.
-- 🌱 I’m currently learning Python and developing at the sametime.
-- 💞️ I’m looking to collaborate on Python Projects especially django Projects.
-- 📫 you can reach me via e18ca015.harish@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: We Die once we live everyday...
+👋 Hello, I'm Harish_Ravichandiran!
 
-<!---
-HarishRavichandiran06/HarishRavichandiran06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🐍 Pythonista | Passionate about Python projects and software development.
+🔍 Always eager to learn and contribute to innovative Python-based solutions.
+💼 Committed to delivering high-quality code with diligence and attention to detail.
+
+📚 Skills:
+- Python
+- Software Development
+- Web API Development 
+- Automation
+
+🌱 I'm currently learning:
+- Django Framework
+- DSA
+- Automation using Python
+
+🤝 Open to collaborations and new opportunities. Let's connect!
